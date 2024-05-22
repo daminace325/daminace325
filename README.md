@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daminace325
-- 👀 I’m interested in Coding and Gaming
-- 🌱 I’m currently learning Programming Laguages like JAVA/C/C++
-- 💞️ I’m looking to collaborate on useful projects
+- 🏫 Studying in IIIT SriCity, CSE
+- 📚 Under-graduate student, currently in 4th year
+- 💞️ Looking ahead to collaborate on useful projects
 
 <!---
 daminace325/daminace325 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
