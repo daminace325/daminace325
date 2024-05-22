@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daminace325
+- 👋 Hi, I’m Mohammad Damin Khan
 - 🏫 Studying in IIIT SriCity, CSE
 - 📚 Under-graduate student, currently in 4th year
 - 💞️ Looking ahead to collaborate on useful projects
