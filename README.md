@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohammad Damin Khan
-- 🏫 Studying in IIIT SriCity, CSE
-- 📚 Under-graduate student, currently in 4th year
+- 🏫 Completed my B. Tech from IIIT SriCity, CSE
 - 💞️ Looking ahead to collaborate on useful projects
 
 <!---
